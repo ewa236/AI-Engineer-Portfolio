@@ -1,2 +1,2 @@
-# AI Engineer Portfolio
-A personal portfolio showcasing my skills and projects as an aspiring AI Engineer. This repository features selected Python projects, scripts, and Jupyter notebooks demonstrating my experience in machine learning, deep learning, natural language processing (NLP), and data engineering. Each project highlights practical, hands-on solutions and reflects my continuous learning and growth in the field of artificial intelligence.
+# AI Portfolio
+A personal portfolio showcasing my skills and projects as AI enthusiast. This repository features selected Python projects, scripts, and Jupyter notebooks demonstrating my experience in machine learning, deep learning, natural language processing (NLP), and data engineering. Each project highlights practical, hands-on solutions and reflects my continuous learning and growth in the field of artificial intelligence.
